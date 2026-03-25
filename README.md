@@ -12,10 +12,3 @@ To evolve this project beyond a single line of text, the following features are 
 
 3. **Dark Mode Toggle** Integrating a theme switcher that allows users to toggle between light and dark modes, saving their preference in the browser's local storage.
 
-## 🛠️ Tech Stack
-* **HTML5** - Page structure
-* **CSS3** - (Planned) Styling
-* **JavaScript** - (Planned) Interactivity
-
----
-*Created with ❤️ by a future Web Dev.*
